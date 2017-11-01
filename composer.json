@@ -1,0 +1,19 @@
+{
+    "name": "nbczw8750/mac",
+    "description": "mac address",
+    "type": "php",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "nbczw8750",
+            "email": "nbczw8750@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "nbczw8750\\mac\\": "src"
+        }
+    }
+}
